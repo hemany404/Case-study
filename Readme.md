@@ -77,19 +77,7 @@ Foi desenvolvida uma plataforma web completa com:
 
 ---
 
-##  Tecnologias Utilizadas
 
-* Python
-* FastAPI
-* html/CSS
-* JavaScript
-* SQLAlchemy
-* PostgreSQL
-* JWT Authentication
-* Supabase Storage
-* Resend
-
----
 
 ##  Arquitetura do Sistema
 
