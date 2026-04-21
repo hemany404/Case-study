@@ -1,6 +1,6 @@
 # Sistema de Prognósticos de Futebol (Case Study)
 
-> **Projeto desenvolvido sob demanda para cliente real, após análise de um repositório público anterior desenvolvido por mim.**
+> **Projeto desenvolvido sob demanda para cliente, após análise de um repositório público anterior desenvolvido por mim.**
 
 ---
 
