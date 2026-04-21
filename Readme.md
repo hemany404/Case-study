@@ -1,4 +1,4 @@
-# 🚀 Sistema de Prognósticos de Futebol (Case Study)
+# Sistema de Prognósticos de Futebol (Case Study)
 
 > **Projeto desenvolvido sob demanda para cliente real, após análise de um repositório público anterior desenvolvido por mim.**
 
