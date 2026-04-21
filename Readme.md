@@ -27,7 +27,7 @@ Com base nesse projeto inicial, fui contratado para:
 
 * Evoluir a ideia para um sistema mais robusto
 * Adaptar funcionalidades para uso real em ambiente empresarial
-* Criar uma solução completa com autenticação, níveis de acesso e painel administrativo
+* Criar uma solução completa com autenticação,assinaturas e painel administrativo
 
 ---
 
@@ -65,7 +65,7 @@ Foi desenvolvida uma plataforma web completa com:
 
 ###  Dashboard do Administrador
 
-![Admin](./assets/dashboard-admin.png)
+![Admin](./assets/adm.png)
 
 ###  Área do Cliente
 
@@ -87,7 +87,7 @@ Foi desenvolvida uma plataforma web completa com:
 * PostgreSQL
 * JWT Authentication
 * Supabase Storage
-
+* Resend
 
 ---
 
@@ -121,7 +121,7 @@ O sistema foi estruturado com foco em boas práticas modernas:
 * Autorizar usuarios após o comprovativo ser aprovado
 * Acesso total ao sistema
 
-### 👤 Cliente
+###  Cliente
 
 * Visualizar prognósticos conforme seu nível
 * Acompanhar previsões e histórico
